@@ -1,5 +1,5 @@
 # Shortest-Path-Finder-IIT-Kharagpur-Campus
-This C++ code implements a real time use case of Floyd-Warshall algorithm to  compute the shortest paths between all pairs of locations on the IIT Kharagpur campus map.
+This JAVA code implements a real time use case of Floyd-Warshall algorithm to  compute the shortest paths between all pairs of locations on the IIT Kharagpur campus map.
 The algorithm is optimized by using dynamic programming technique memoization to store previous stops to reach a location.
 <br>
 30 locations have been considered, as shown in the image of the map. Considering each location a node, an integer value starting from 1 is assigned. 
